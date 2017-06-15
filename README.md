@@ -1,24 +1,10 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-# Create a Java Web Application using Embedded Tomcat
+-Clone the project files throw git : git clone https://github.com/makahleh/expedia.git
 
-This tutorial will show you how to create a simple Java web application using embedded Tomcat.
+-My app URL :https://makahleh94.herokuapp.com/
 
-## Prerequisites
+-Technologiees i used : java, bootstrap, json , HTML ,css.
 
-* Basic Java knowledge, including an installed version of the JVM and Maven.
-* Basic Git knowledge, including an installed version of Git.
-* A Java web application. If you don't have one follow the first step to create an example. Otherwise skip that step.
+-No ajax requests implemented.
 
-## Skip The Application Creation
-
-If you want to skip the creation steps you can clone the finished sample and then skip to the 'Deploy Your Application to Heroku' section:
-
-```
-$ git clone git@github.com:heroku/devcenter-embedded-tomcat.git
-```
-
-## Follow the Guide
-
-If you would like to create the application yourself, then follow the Dev Center guide on how to [Create a Java Web Application using Embedded Tomcat](https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat).
-
-
+-Search filter doens't work on my site because they already doesn''t work when i did a direct 
+call to the API throw the browser!! the call almost return with the same results.
